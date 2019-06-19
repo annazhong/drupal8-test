@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Bartik theme.
+
+sub_bartik.settings:
+  type: theme_settings
+  label: 'Sub Bartik settings'
